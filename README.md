@@ -4,8 +4,6 @@ This project was completed as part of my CodeAlpha UI/UX Design Internship.
 
 ## Project Overview
 
-## Project Overview
-
 The purpose of this project was to document the complete UX design process, including problem identification, user research, wireframing, high-fidelity design, and the final prototype. The case study explains the design decisions and the overall user experience.
 ## Preview
 
